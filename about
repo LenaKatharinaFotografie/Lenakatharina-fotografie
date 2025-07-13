@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Über mich | Lena Katharina Fotografie</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <h1>Lena Katharina Fotografie</h1>
+    <nav>
+      <ul>
+        <li><a href="index.html">Startseite</a></li>
+        <li><a href="galerie.html">Galerie</a></li>
+        <li><a href="about.html">Über mich</a></li>
+        <li><a href="index.html#shootings">Shootings</a></li>
+        <li><a href="index.html#contact">Kontakt</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <section>
+    <h2>Über mich</h2>
+    <p>
+      Hallo, ich bin Lena Katharina, leidenschaftliche Fotografin aus Ellwangen.<br>
+      Die Liebe zu besonderen Momenten und die Arbeit mit Menschen und Tieren stehen für mich im Mittelpunkt. 
+      Seit vielen Jahren halte ich mit meiner Kamera Erinnerungen fest – ob bei Shootings mit Tieren, Babys, Familien oder Freunden.<br><br>
+      Meine Fotos erzählen Geschichten und fangen echte Emotionen ein. 
+      Mit viel Empathie und Kreativität gestalte ich jedes Shooting individuell und sorge für eine entspannte Atmosphäre.<br><br>
+      Du möchtest mehr erfahren oder ein Shooting buchen? Dann schreib mir gerne!
+    </p>
+ <p>
+  Folge mir auf Instagram: 
+  <a href="https://instagram.com/lenakatharina_fotografie" target="_blank">instagram.com/lenakatharina_fotografie</a>  
+ </p>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 Lena Katharina Fotografie</p>
+  </footer>
+</body>
+</html>
